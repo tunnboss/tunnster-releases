@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "version": "0.1.0-dev.41",
+  "channel": "stable",
+  "releaseId": "0.1.0-dev.41-20261007-105411",
+  "packageUrl": "https://github.com/tunnboss/tunnster-releases/releases/download/v0.1.0-dev.41/TUNNSTER-0.1.0-dev.41-win-x64.zip",
+  "packageSha256": "F3B6A9BB47777D254148ABC7B40F2EE559D7420EED51B362067787282A3ED676",
+  "packageSize": 184081033,
+  "publishedAtUtc": "2026-10-07T07:55:53.4143194+00:00",
+  "mandatory": false,
+  "releaseNotes": "Автоматическое получение защищённых настроек VPN после активации доступа. Исправлена привязка аккаунта на чистой установке. Обновления через GitHub с проверкой подписи и сохранением настроек.",
+  "signature": "DRjgz5bBKtrS+iz2xKzif5/ITA1HKUWBCTZWkYKTIiOEh39yqsEZkIWD8bzNnhRsrOwA75mm5qva3kOi+NFlZQ=="
+}
+
