@@ -1,14 +1,13 @@
 {
   "schemaVersion": 1,
-  "version": "0.1.0-dev.41",
+  "version": "0.1.0-dev.42",
   "channel": "stable",
-  "releaseId": "0.1.0-dev.41-20261007-105411",
-  "packageUrl": "https://github.com/tunnboss/tunnster-releases/releases/download/v0.1.0-dev.41/TUNNSTER-0.1.0-dev.41-win-x64.zip",
-  "packageSha256": "F3B6A9BB47777D254148ABC7B40F2EE559D7420EED51B362067787282A3ED676",
-  "packageSize": 184081033,
-  "publishedAtUtc": "2026-10-07T07:55:53.4143194+00:00",
+  "releaseId": "0.1.0-dev.42-20261007-114552",
+  "packageUrl": "https://github.com/tunnboss/tunnster-releases/releases/download/v0.1.0-dev.42/TUNNSTER-0.1.0-dev.42-win-x64.zip",
+  "packageSha256": "7624AFD8FE3E9F640665331024A5F682584A5D40DE1E8850714A6E14E2249AE2",
+  "packageSize": 183827036,
+  "publishedAtUtc": "2026-10-07T08:48:27.0235150+00:00",
   "mandatory": false,
-  "releaseNotes": "Автоматическое получение защищённых настроек VPN после активации доступа. Исправлена привязка аккаунта на чистой установке. Обновления через GitHub с проверкой подписи и сохранением настроек.",
-  "signature": "DRjgz5bBKtrS+iz2xKzif5/ITA1HKUWBCTZWkYKTIiOEh39yqsEZkIWD8bzNnhRsrOwA75mm5qva3kOi+NFlZQ=="
+  "releaseNotes": "Уведомления о действиях и ошибках показываются только на главной и сбрасываются при смене вкладки. Значки приложения, ярлыка и трея заменены на фирменную букву T.",
+  "signature": "Y/nOxIrhhcMQ2GvhvY2jgWZgPbHhtJ/tVqtH2rN+LI0yNgBKDkUE0RPE3d1UG5gDy35+5XbHEigO17OkJ+7cCA=="
 }
-
