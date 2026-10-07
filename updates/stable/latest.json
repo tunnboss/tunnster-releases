@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "version": "0.1.0-dev.48",
+  "version": "0.1.0-dev.50",
   "channel": "stable",
-  "releaseId": "0.1.0-dev.48-20261007-200649",
-  "packageUrl": "https://github.com/tunnboss/tunnster-releases/releases/download/v0.1.0-dev.48/TUNNSTER-0.1.0-dev.48-win-x64.zip",
-  "packageSha256": "B78A0FF731CBAC02D78F7D1BF7234A85406321D718B59B17F021029E72F09821",
-  "packageSize": 183824425,
-  "publishedAtUtc": "2026-10-07T17:08:21.8360031+00:00",
+  "releaseId": "0.1.0-dev.50-20261007-235737",
+  "packageUrl": "https://github.com/tunnboss/tunnster-releases/releases/download/v0.1.0-dev.50/TUNNSTER-0.1.0-dev.50-win-x64.zip",
+  "packageSha256": "E8B70FE892A2F2B8A638670C668A67A15539618A4D3CFEE2FFBA8EC0650575E3",
+  "packageSize": 183825642,
+  "publishedAtUtc": "2026-10-07T20:59:42.6538660+00:00",
   "mandatory": false,
-  "releaseNotes": "Обновлён дизайн главной, приложений, подписки и настроек. Новые вкладки профиля, увеличенные кнопки и плавные переключатели С VPN / Без VPN. Исправлено обрезание кружков в настройках. Реферальная программа появится после подключения оплаты; активация дней через Промокод сохранена. Маскот и верхняя надпись не изменены.",
-  "signature": "rSlo5V5JBikXnwaG7xZ/5K3sRbw1lJ+bodQT+3NsWfhwdmbUyDt2q6j0XdgGcXGqO/a64qR5j6O9JuO1HBnWSQ=="
+  "releaseNotes": "Стабильный локальный адаптер при переключении VPN: соединения приложений «Без VPN» сохраняют свой путь. Устанавливайте обновление вне матча и с отключённым VPN. Сборка для тестирования; при проблемах сохранили прежнюю версию для отката.",
+  "signature": "YsV1JRNBYy+Ov7Qd/eka84fG7SqjNCX5Xt/wzDBv9MdeOPg5oaAb5iQHqAHoXKk3/1G7hyA596tpFh1PRX21zA=="
 }
