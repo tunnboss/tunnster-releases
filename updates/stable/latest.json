@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "version": "0.1.0-dev.50",
+  "version": "0.1.0-dev.52",
   "channel": "stable",
-  "releaseId": "0.1.0-dev.50-20261007-235737",
-  "packageUrl": "https://github.com/tunnboss/tunnster-releases/releases/download/v0.1.0-dev.50/TUNNSTER-0.1.0-dev.50-win-x64.zip",
-  "packageSha256": "E8B70FE892A2F2B8A638670C668A67A15539618A4D3CFEE2FFBA8EC0650575E3",
-  "packageSize": 183825642,
-  "publishedAtUtc": "2026-10-07T20:59:42.6538660+00:00",
+  "releaseId": "0.1.0-dev.52-20261008-200557",
+  "packageUrl": "https://github.com/tunnboss/tunnster-releases/releases/download/v0.1.0-dev.52/TUNNSTER-0.1.0-dev.52-win-x64.zip",
+  "packageSha256": "EA605CFB5B6F44970EAFD078167C5385342BBBED3E378573327D131A7EE00973",
+  "packageSize": 183853523,
+  "publishedAtUtc": "2026-10-08T17:17:55.0781147+00:00",
   "mandatory": false,
-  "releaseNotes": "Стабильный локальный адаптер при переключении VPN: соединения приложений «Без VPN» сохраняют свой путь. Устанавливайте обновление вне матча и с отключённым VPN. Сборка для тестирования; при проблемах сохранили прежнюю версию для отката.",
-  "signature": "YsV1JRNBYy+Ov7Qd/eka84fG7SqjNCX5Xt/wzDBv9MdeOPg5oaAb5iQHqAHoXKk3/1G7hyA596tpFh1PRX21zA=="
+  "releaseNotes": "Обновлены главная страница, оформление обновлений и меню серверов. Добавлены анимированные мини-иллюстрации и сетевой узор без кругов за маскотом. Полный выход теперь отключает VPN перед закрытием. После включения ПК VPN по умолчанию выключен; восстановление доступно только по явному разрешению в настройках. Исправлены гонки подключения, выхода и восстановления службы.",
+  "signature": "AIOSqENNeeY8PJ9/dBymXMEg6gI966As2LYrcvzr+/UWIRFf2VZPta9wXCCePfO5EQ6aahRXIEAvS8yLc1MZiw=="
 }
