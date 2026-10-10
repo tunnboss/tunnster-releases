@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "version": "0.1.0-dev.52",
+  "version": "0.1.0-dev.53",
   "channel": "stable",
-  "releaseId": "0.1.0-dev.52-20261008-200557",
-  "packageUrl": "https://github.com/tunnboss/tunnster-releases/releases/download/v0.1.0-dev.52/TUNNSTER-0.1.0-dev.52-win-x64.zip",
-  "packageSha256": "EA605CFB5B6F44970EAFD078167C5385342BBBED3E378573327D131A7EE00973",
-  "packageSize": 183853523,
-  "publishedAtUtc": "2026-10-08T17:17:55.0781147+00:00",
+  "releaseId": "0.1.0-dev.53-20261010-025127",
+  "packageUrl": "https://github.com/tunnboss/tunnster-releases/releases/download/v0.1.0-dev.53/TUNNSTER-0.1.0-dev.53-win-x64.zip",
+  "packageSha256": "D7271853B9D71B059C096C36F046E2D74DBC6067C05DFDCB27090D691D9A7659",
+  "packageSize": 183883334,
+  "publishedAtUtc": "2026-10-10T13:41:08.8414002+00:00",
   "mandatory": false,
-  "releaseNotes": "Обновлены главная страница, оформление обновлений и меню серверов. Добавлены анимированные мини-иллюстрации и сетевой узор без кругов за маскотом. Полный выход теперь отключает VPN перед закрытием. После включения ПК VPN по умолчанию выключен; восстановление доступно только по явному разрешению в настройках. Исправлены гонки подключения, выхода и восстановления службы.",
-  "signature": "AIOSqENNeeY8PJ9/dBymXMEg6gI966As2LYrcvzr+/UWIRFf2VZPta9wXCCePfO5EQ6aahRXIEAvS8yLc1MZiw=="
+  "releaseNotes": "Добавлена временная запись игровой диагностики в настройках: до 5 минут, сохранение локального отчёта и удаление записи. Собираются показатели соединений, маршрутов и сетевых счётчиков без содержимого пакетов, адресов, доменов и ключей; автоматической отправки нет. Это инструмент поиска причин задержек, а не готовое исправление джиттера. Устанавливайте обновление вне игры и с отключённым VPN.",
+  "signature": "vUfIPhApN9DVTAr4wEnIkg7XhQbShwcUQ5juetuWkc+LbNoRwaynnHbzLP2WcR7AqN27qF4K3MPqvDq4YH1T9Q=="
 }
