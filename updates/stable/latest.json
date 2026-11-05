@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "version": "0.1.0-dev.53",
+  "version": "0.1.0-dev.57",
   "channel": "stable",
-  "releaseId": "0.1.0-dev.53-20261010-025127",
-  "packageUrl": "https://github.com/tunnboss/tunnster-releases/releases/download/v0.1.0-dev.53/TUNNSTER-0.1.0-dev.53-win-x64.zip",
-  "packageSha256": "D7271853B9D71B059C096C36F046E2D74DBC6067C05DFDCB27090D691D9A7659",
-  "packageSize": 183883334,
-  "publishedAtUtc": "2026-10-10T13:41:08.8414002+00:00",
+  "releaseId": "0.1.0-dev.57-20261105-165926",
+  "packageUrl": "https://github.com/tunnboss/tunnster-releases/releases/download/v0.1.0-dev.57/TUNNSTER-0.1.0-dev.57-win-x64.zip",
+  "packageSha256": "0A842CAC1295BEA6D43D439C478A07C78918068D5C131AC1E15EE01F62D8CDEF",
+  "packageSize": 183934598,
+  "publishedAtUtc": "2026-11-05T14:10:33.7261905+00:00",
   "mandatory": false,
-  "releaseNotes": "Добавлена временная запись игровой диагностики в настройках: до 5 минут, сохранение локального отчёта и удаление записи. Собираются показатели соединений, маршрутов и сетевых счётчиков без содержимого пакетов, адресов, доменов и ключей; автоматической отправки нет. Это инструмент поиска причин задержек, а не готовое исправление джиттера. Устанавливайте обновление вне игры и с отключённым VPN.",
-  "signature": "vUfIPhApN9DVTAr4wEnIkg7XhQbShwcUQ5juetuWkc+LbNoRwaynnHbzLP2WcR7AqN27qF4K3MPqvDq4YH1T9Q=="
+  "releaseNotes": "Очистка подтверждённых устаревших версий и дублирующих служб после успешного обновления. Сохранение аккаунта, ключей и настроек; повторная очистка занятых файлов. Отображаемое имя собственной сети Windows — TUNNSTER. Проверка точного совпадения версии клиента и службы. Включены изменения dev.55–56: выбор сетевого адаптера по маршрутам Windows, контроль DNS mihomo и исправления допуска Hyper-V/Ethernet.",
+  "signature": "jHU6q41a6w8aC0bWP/N0JFQm43Kj7u4sw7KUOGIKQwU5bzBwTFhoEfkQlICbYgQwXewLXPMcj0aj2Ld5u2cbQQ=="
 }
